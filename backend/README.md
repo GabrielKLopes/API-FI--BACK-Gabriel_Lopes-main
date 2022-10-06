@@ -1,10 +1,6 @@
-# Awesome Project Build with TypeORM
+PROVA DE WEB FRONT END
 
-Steps to run this project:
-gabriel
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+LINK GITHUB: https://github.com/GabrielKLopes/API-FI--BACK-Gabriel_Lopes-main
+Aluno: Gabriel Aparecido Kovalski Lopes
 
-
-npm add nodemon -d (restarta a aplicação após salvar)
+Uso exclusivo para estudo
